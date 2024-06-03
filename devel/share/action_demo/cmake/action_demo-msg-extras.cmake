@@ -1,0 +1,2 @@
+set(action_demo_MESSAGE_FILES "/home/yj/tutorial_ws/devel/share/action_demo/msg/DoDishesAction.msg;/home/yj/tutorial_ws/devel/share/action_demo/msg/DoDishesActionGoal.msg;/home/yj/tutorial_ws/devel/share/action_demo/msg/DoDishesActionResult.msg;/home/yj/tutorial_ws/devel/share/action_demo/msg/DoDishesActionFeedback.msg;/home/yj/tutorial_ws/devel/share/action_demo/msg/DoDishesGoal.msg;/home/yj/tutorial_ws/devel/share/action_demo/msg/DoDishesResult.msg;/home/yj/tutorial_ws/devel/share/action_demo/msg/DoDishesFeedback.msg")
+set(action_demo_SERVICE_FILES "")
